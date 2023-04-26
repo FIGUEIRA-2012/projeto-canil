@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AplicativoCanil'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6543BE708014EBE8E880D79D07405D5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0C14BC612BC4E9CA4A60FE9DC23D197 }}
           package: .
